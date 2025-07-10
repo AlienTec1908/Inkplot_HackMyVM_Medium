@@ -84,7 +84,7 @@ Der Pentest gliederte sich in folgende Hauptphasen:
 
 Eine detaillierte Schritt-für-Schritt-Anleitung, inklusive Befehlsausgaben, Analyse, Bewertung und Empfehlungen für jeden Schritt, finden Sie im vollständigen HTML-Bericht:
 
-[**➡️ Vollständigen Pentest-Bericht hier ansehen**]({Link zur Seite})
+[**➡️ Vollständigen Pentest-Bericht hier ansehen**](https://alientec1908.github.io/Inkplot_HackMyVM_Medium/)
 
 ---
 
